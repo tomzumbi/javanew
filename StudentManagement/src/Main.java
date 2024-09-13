@@ -16,5 +16,7 @@ public class Main {
         users.add(new Admin("student2","student234"));
         users.add(new Admin("student2","student234"));
         users.add(new Admin("student2","student234"));
+        users.add(new Admin("student2","student234"));
+        users.add(new Admin("student2","student234"));
     }
 }
